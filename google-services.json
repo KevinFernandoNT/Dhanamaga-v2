@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445110617246",
+    "project_id": "dhanamaga-d80f0",
+    "storage_bucket": "dhanamaga-d80f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445110617246:android:92b10145992f933fc1e78f",
+        "android_client_info": {
+          "package_name": "lk.dhanamaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445110617246-rhc8gicr71n3a79h2b53oj9k2037n50i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYinlnF8Ekr6K73OOPuBirLdyNjL3AosE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445110617246-rhc8gicr71n3a79h2b53oj9k2037n50i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
