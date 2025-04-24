@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { Block } from "galio-framework";
 import { Easing, Animated, Dimensions } from "react-native";
-import { createStackNavigator } from "@react-navigation/native-stack";
+import { createStackNavigator } from "@react-navigation/native";
 import { createDrawerNavigator } from "@react-navigation/drawer";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 // screens

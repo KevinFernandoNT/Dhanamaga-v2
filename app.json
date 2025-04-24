@@ -6,6 +6,7 @@
       "ios",
       "android"
     ],
+    "entryPoint": "./index.js",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -89,6 +90,11 @@
       "eas": {
         "projectId": "66602b16-f81b-49a4-b33f-cffa17f2201b"
       }
-    }
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font",
+      "expo-localization"
+    ]
   }
 }
